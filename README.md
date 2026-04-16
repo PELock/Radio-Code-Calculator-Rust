@@ -1,5 +1,9 @@
 # Radio Code Calculator Online & SDK for Rust
 
+[![crates.io](https://img.shields.io/crates/v/radio-code-calculator.svg)](https://crates.io/crates/radio-code-calculator)
+[![docs.rs](https://img.shields.io/docsrs/radio-code-calculator)](https://docs.rs/radio-code-calculator)
+[![License](https://img.shields.io/crates/l/radio-code-calculator)](https://crates.io/crates/radio-code-calculator)
+
 **[Radio Code Calculator](https://www.pelock.com/products/radio-code-calculator)** is an online service along with [Web API & SDK](https://www.pelock.com/products/radio-code-calculator/sdk) for generating car radio unlock codes for popular vehicle brands.
 
 Following a breakdown or a disconnection of the car battery, most of the vehicle radio & navigation units will ask for an unlocking code. It's standard anti-theft protection.
